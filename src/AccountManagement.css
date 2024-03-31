@@ -1,0 +1,49 @@
+.account-management {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .toggle-buttons {
+    margin-bottom: 20px;
+  }
+  
+  .toggle-buttons button {
+    margin-right: 10px;
+    padding: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .customer-section,
+  .shop-owner-section {
+    margin-bottom: 20px;
+  }
+  
+  .customer-section h2,
+  .shop-owner-section h2 {
+    margin-bottom: 10px;
+  }
+  
+  form label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  form input {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  form button {
+    padding: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  form button + button {
+    margin-left: 10px;
+  }
+  
